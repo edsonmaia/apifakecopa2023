@@ -9,7 +9,7 @@
   "local": "EDEN PARK",
   "mandante": "NOVA ZELÂNDIA",
   "sigla_mandante": "NZL",
-  "gols_mandante": 0,
+  "gols_mandante": 1,
   "gols_visitante": 0,
   "sigla_visitante": "NOR",
   "visitante": "NORUEGA"
@@ -24,7 +24,7 @@
   "local": "STADIUM AUSTRALIA",
   "mandante": "AUSTRÁLIA",
   "sigla_mandante": "AUS",
-  "gols_mandante": 0,
+  "gols_mandante": 1,
   "gols_visitante": 0,
   "sigla_visitante": "IRL",
   "visitante": "IRLANDA"
@@ -55,7 +55,7 @@
   "mandante": "FILIPINAS",
   "sigla_mandante": "FIL",
   "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_visitante": 2,
   "sigla_visitante": "SUI",
   "visitante": "SUÍÇA"
  },
@@ -70,7 +70,7 @@
   "mandante": "ZÂMBIA",
   "sigla_mandante": "ZAM",
   "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_visitante": 5,
   "sigla_visitante": "JAP",
   "visitante": "JAPÃO"
  },
@@ -84,7 +84,7 @@
   "local": "WELLINGTON REGIONAL",
   "mandante": "ESPANHA",
   "sigla_mandante": "ESP",
-  "gols_mandante": 0,
+  "gols_mandante": 3,
   "gols_visitante": 0,
   "sigla_visitante": "COS",
   "visitante": "COSTA RICA"
@@ -99,7 +99,7 @@
   "local": "EDEN PARK",
   "mandante": "ESTADOS UNIDOS",
   "sigla_mandante": "EUA",
-  "gols_mandante": 0,
+  "gols_mandante": 3,
   "gols_visitante": 0,
   "sigla_visitante": "VIE",
   "visitante": "VIETNÃ"
@@ -114,7 +114,7 @@
   "local": "SUNCORP STADIUM",
   "mandante": "INGLATERRA",
   "sigla_mandante": "ING",
-  "gols_mandante": 0,
+  "gols_mandante": 1,
   "gols_visitante": 0,
   "sigla_visitante": "HAI",
   "visitante": "HAITI"
@@ -129,7 +129,7 @@
   "local": "HBF PARK",
   "mandante": "DINAMARCA",
   "sigla_mandante": "DIN",
-  "gols_mandante": 0,
+  "gols_mandante": 1,
   "gols_visitante": 0,
   "sigla_visitante": "CHI",
   "visitante": "CHINA"
@@ -144,8 +144,8 @@
   "local": "WELLINGTON REGIONAL",
   "mandante": "SUÉCIA",
   "sigla_mandante": "SUE",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 2,
+  "gols_visitante": 1,
   "sigla_visitante": "AFS",
   "visitante": "ÁFRICA DO SUL"
  },
@@ -159,7 +159,7 @@
   "local": "FORSYTH BARR",
   "mandante": "HOLANDA",
   "sigla_mandante": "HOL",
-  "gols_mandante": 0,
+  "gols_mandante": 1,
   "gols_visitante": 0,
   "sigla_visitante": "POR",
   "visitante": "PORTUGAL"
@@ -189,7 +189,7 @@
   "local": "EDEN PARK",
   "mandante": "ITÁLIA",
   "sigla_mandante": "ITA",
-  "gols_mandante": 0,
+  "gols_mandante": 1,
   "gols_visitante": 0,
   "sigla_visitante": "ARG",
   "visitante": "ARGENTINA"
@@ -204,7 +204,7 @@
   "local": "AAMI PARK",
   "mandante": "ALEMANHA",
   "sigla_mandante": "ALE",
-  "gols_mandante": 0,
+  "gols_mandante": 6,
   "gols_visitante": 0,
   "sigla_visitante": "MAR",
   "visitante": "MARROCOS"
@@ -219,7 +219,7 @@
   "local": "COOPERS STADIUM",
   "mandante": "BRASIL",
   "sigla_mandante": "BRA",
-  "gols_mandante": 0,
+  "gols_mandante": 4,
   "gols_visitante": 0,
   "sigla_visitante": "PAN",
   "visitante": "PANAMÁ"
@@ -234,7 +234,7 @@
   "local": "ALLIANZ STATIUM",
   "mandante": "COLÔMBIA",
   "sigla_mandante": "COL",
-  "gols_mandante": 0,
+  "gols_mandante": 2,
   "gols_visitante": 0,
   "sigla_visitante": "CDS",
   "visitante": "COREIA DO SUL"
@@ -250,7 +250,7 @@
   "mandante": "NOVA ZELÂNDIA",
   "sigla_mandante": "NZL",
   "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_visitante": 1,
   "sigla_visitante": "FIL",
   "visitante": "FILIPINAS"
  },
@@ -279,7 +279,7 @@
   "local": "FORSYTH BARR",
   "mandante": "JAPÃO",
   "sigla_mandante": "JAP",
-  "gols_mandante": 0,
+  "gols_mandante": 2,
   "gols_visitante": 0,
   "sigla_visitante": "COS",
   "visitante": "COSTA RICA"
@@ -294,7 +294,7 @@
   "local": "EDEN PARK",
   "mandante": "ESPANHA",
   "sigla_mandante": "ESP",
-  "gols_mandante": 0,
+  "gols_mandante": 5,
   "gols_visitante": 0,
   "sigla_visitante": "ZAM",
   "visitante": "ZÂMBIA"
@@ -309,8 +309,8 @@
   "local": "HBF PARK",
   "mandante": "CANADÁ",
   "sigla_mandante": "CAN",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 2,
+  "gols_visitante": 1,
   "sigla_visitante": "IRL",
   "visitante": "IRLANDA"
  },
@@ -324,8 +324,8 @@
   "local": "WELLINGTON REGIONAL",
   "mandante": "ESTADOS UNIDOS",
   "sigla_mandante": "EUA",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 1,
+  "gols_visitante": 1,
   "sigla_visitante": "HOL",
   "visitante": "HOLANDA"
  },
@@ -339,7 +339,7 @@
   "local": "WAIKATO",
   "mandante": "PORTUGAL",
   "sigla_mandante": "POR",
-  "gols_mandante": 0,
+  "gols_mandante": 2,
   "gols_visitante": 0,
   "sigla_visitante": "VIE",
   "visitante": "VIETNÃ"
@@ -354,9 +354,9 @@
   "local": "SUNCORP STADIUM",
   "mandante": "AUSTRÁLIA",
   "sigla_mandante": "AUS",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
-  "sigla_visitante": "NIA",
+  "gols_mandante": 2,
+  "gols_visitante": 3,
+  "sigla_visitante": "NIG",
   "visitante": "NIGÉRIA"
  },
  {
@@ -369,8 +369,8 @@
   "local": "FORSYTH BARR",
   "mandante": "ARGENTINA",
   "sigla_mandante": "ARG",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 2,
+  "gols_visitante": 2,
   "sigla_visitante": "AFS",
   "visitante": "ÁFRICA DO SUL"
  },
@@ -384,7 +384,7 @@
   "local": "ALLIANZ STATIUM",
   "mandante": "INGLATERRA",
   "sigla_mandante": "ING",
-  "gols_mandante": 0,
+  "gols_mandante": 1,
   "gols_visitante": 0,
   "sigla_visitante": "DIN",
   "visitante": "DINAMARCA"
@@ -399,7 +399,7 @@
   "local": "COOPERS STADIUM",
   "mandante": "CHINA",
   "sigla_mandante": "CHI",
-  "gols_mandante": 0,
+  "gols_mandante": 1,
   "gols_visitante": 0,
   "sigla_visitante": "HAI",
   "visitante": "HAITI"
@@ -414,7 +414,7 @@
   "local": "WELLINGTON REGIONAL",
   "mandante": "SUÉCIA",
   "sigla_mandante": "SUE",
-  "gols_mandante": 0,
+  "gols_mandante": 5,
   "gols_visitante": 0,
   "sigla_visitante": "ITA",
   "visitante": "ITÁLIA"
@@ -429,8 +429,8 @@
   "local": "SUNCORP STADIUM",
   "mandante": "FRANÇA",
   "sigla_mandante": "FRA",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 2,
+  "gols_visitante": 1,
   "sigla_visitante": "BRA",
   "visitante": "BRASIL"
  },
@@ -459,8 +459,6 @@
   "local": "COOPERS STADIUM",
   "mandante": "COREIA DO SUL",
   "sigla_mandante": "CDS",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "MAR",
   "visitante": "MARROCOS"
  },
@@ -474,8 +472,6 @@
   "local": "FORSYTH BARR",
   "mandante": "SUÍÇA",
   "sigla_mandante": "SUI",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "NZL",
   "visitante": "NOVA ZELÂNDIA"
  },
@@ -489,8 +485,6 @@
   "local": "EDEN PARK",
   "mandante": "NORUEGA",
   "sigla_mandante": "NOR",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "FIN",
   "visitante": "FINLÂNDIA"
  },
@@ -504,8 +498,6 @@
   "local": "ALLIANZ STATIUM",
   "mandante": "ALEMANHA",
   "sigla_mandante": "ALE",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "COL",
   "visitante": "COLÔMBIA"
  },
@@ -519,8 +511,6 @@
   "local": "AAMI PARK",
   "mandante": "CANADÁ",
   "sigla_mandante": "CAN",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "AUS",
   "visitante": "AUSTRÁLIA"
  },
@@ -534,8 +524,6 @@
   "local": "SUNCORPO STADIUM",
   "mandante": "IRLANDA",
   "sigla_mandante": "IRL",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "NIG",
   "visitante": "NIGÉRIA"
  },
@@ -549,8 +537,6 @@
   "local": "WELLINGTON REGIONAL",
   "mandante": "JAPÃO",
   "sigla_mandante": "JAP",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "ESP",
   "visitante": "ESPANHA"
  },
@@ -564,8 +550,6 @@
   "local": "WAIKATO",
   "mandante": "COSTA RICA",
   "sigla_mandante": "COS",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "ZAM",
   "visitante": "ZÂMBIA"
  },
@@ -579,8 +563,6 @@
   "local": "EDEN PARK",
   "mandante": "PORTUGAL",
   "sigla_mandante": "POR",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "EUA",
   "visitante": "ESTADOS UNIDOS"
  },
@@ -594,8 +576,6 @@
   "local": "FORSYTH BARR",
   "mandante": "VIETNÃ",
   "sigla_mandante": "VIE",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "HOL",
   "visitante": "HOLANDA"
  },
@@ -609,8 +589,6 @@
   "local": "COOPERS STADIUM",
   "mandante": "CHINA",
   "sigla_mandante": "CHI",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "ING",
   "visitante": "INGLATERRA"
  },
@@ -624,8 +602,6 @@
   "local": "HBF PARK",
   "mandante": "HAITI",
   "sigla_mandante": "HAI",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "DIN",
   "visitante": "DINAMARCA"
  },
@@ -639,8 +615,6 @@
   "local": "WAIKATO",
   "mandante": "ARGENTINA",
   "sigla_mandante": "ARG",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "SUE",
   "visitante": "SUÉCIA"
  },
@@ -654,8 +628,6 @@
   "local": "WELLINGTON REGIONAL",
   "mandante": "ÁFRICA DO SUL",
   "sigla_mandante": "AFS",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "ITA",
   "visitante": "ITÁLIA"
  },
@@ -669,8 +641,6 @@
   "local": "ALLIANZ STATIUM",
   "mandante": "PANAMA",
   "sigla_mandante": "PAN",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "FRA",
   "visitante": "FRANÇA"
  },
@@ -684,8 +654,6 @@
   "local": "AAMI PARK",
   "mandante": "JAMAICA",
   "sigla_mandante": "JAM",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "BRA",
   "visitante": "BRASIL"
  },
@@ -699,8 +667,6 @@
   "local": "SUNCORP STADIUM",
   "mandante": "COREIA DO SUL",
   "sigla_mandante": "CDS",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "ALE",
   "visitante": "ALEMANHA"
  },
@@ -714,8 +680,6 @@
   "local": "HBF PARK",
   "mandante": "MARROCOS",
   "sigla_mandante": "MAR",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
   "sigla_visitante": "COL",
   "visitante": "COLÔMBIA"
  }
