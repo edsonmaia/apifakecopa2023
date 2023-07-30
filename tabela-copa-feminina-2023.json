@@ -509,8 +509,38 @@
   "sigla_visitante": "COL",
   "visitante": "COLÔMBIA"
  },
- {
+{
   "jogo": 35,
+  "rodada": 3,
+  "grupo": "C",
+  "dia": "SEG",
+  "data": "31/07",
+  "hora": "04:00",
+  "local": "WELLINGTON REGIONAL",
+  "mandante": "JAPÃO",
+  "sigla_mandante": "JAP",
+  "gols_mandante": 0,
+  "gols_visitante": 0,
+  "sigla_visitante": "ESP",
+  "visitante": "ESPANHA"
+ },
+ {
+  "jogo": 36,
+  "rodada": 3,
+  "grupo": "C",
+  "dia": "SEG",
+  "data": "31/07",
+  "hora": "04:00",
+  "local": "WAIKATO",
+  "mandante": "COSTA RICA",
+  "sigla_mandante": "COS",
+  "gols_mandante": 0,
+  "gols_visitante": 0,
+  "sigla_visitante": "ZAM",
+  "visitante": "ZÂMBIA"
+ },
+ {
+  "jogo": 37,
   "rodada": 3,
   "grupo": "B",
   "dia": "SEG",
@@ -525,7 +555,7 @@
   "visitante": "AUSTRÁLIA"
  },
  {
-  "jogo": 36,
+  "jogo": 38,
   "rodada": 3,
   "grupo": "B",
   "dia": "SEG",
@@ -538,36 +568,6 @@
   "gols_visitante": 0,
   "sigla_visitante": "NIG",
   "visitante": "NIGÉRIA"
- },
- {
-  "jogo": 37,
-  "rodada": 3,
-  "grupo": "C",
-  "dia": "SEG",
-  "data": "31/07",
-  "hora": "07:00",
-  "local": "WELLINGTON REGIONAL",
-  "mandante": "JAPÃO",
-  "sigla_mandante": "JAP",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
-  "sigla_visitante": "ESP",
-  "visitante": "ESPANHA"
- },
- {
-  "jogo": 38,
-  "rodada": 3,
-  "grupo": "C",
-  "dia": "SEG",
-  "data": "31/07",
-  "hora": "07:00",
-  "local": "WAIKATO",
-  "mandante": "COSTA RICA",
-  "sigla_mandante": "COS",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
-  "sigla_visitante": "ZAM",
-  "visitante": "ZÂMBIA"
  },
  {
   "jogo": 39,
