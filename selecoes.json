@@ -1,0 +1,210 @@
+[
+	{
+		grupo: "A",
+		cor: "#2C5C6B",
+		selecoes: [
+			{
+				selecao: "Nova Zelândia",
+				sigla: "NZL",
+				imagem: "nzl"
+			},
+			{
+				selecao: "Noruega",
+				sigla: "NOR",
+				imagem: "nor"	
+			},
+			{
+				selecao: "Filipinas",
+				sigla: "FIL",
+				imagem: "fil"
+			},
+			{
+				selecao: "Suíça",
+				sigla: "SUI",
+				imagem: "sui"
+			}
+		]
+	},
+	{
+		grupo: "B",
+		cor: "#7DDFD2",
+		selecoes: [
+			{
+				selecao: "Austrália",
+				sigla: "AUS",
+				imagem: "aus"
+			},
+			{
+				selecao: "Irlanda",
+				sigla: "IRL",
+				imagem: "irl"
+			},
+			{
+				selecao: "Nigéria",
+				sigla: "NIG",
+				imagem: "nig"
+			},
+			{
+				selecao: "Canadá",
+				sigla: "CAN",
+				imagem: "can"
+			}
+		]
+	},
+	{
+		grupo: "C",
+		cor: "#ECB3CB",
+		selecoes: [
+			{
+				selecao: "Espanha",
+				sigla: "ESP",
+				imagem: "esp"
+			},
+			{
+				selecao: "Costa Rica",
+				sigla: "COS",
+				imagem: "cos"
+			},
+			{
+				selecao: "Zâmbia",
+				sigla: "ZAM",
+				imagem: "zam"
+			},
+			{
+				selecao: "Japão",
+				 sigla: "JAP",
+				imagem: "jap"
+			}
+		]
+	},
+	{
+		grupo: "D",
+		cor: "#F22688",
+		selecoes: [
+			{
+				selecao: "Inglaterra",
+				sigla: "ING",
+				imagem: "ing"
+			},
+			{
+				selecao: "Haiti",
+				sigla: "HAI",
+				imagem: "hai"
+			},
+			{
+				selecao: "Dinamarca",
+				sigla: "DIN",
+				imagem: "din"
+			},
+			{
+				selecao: "China",
+				sigla: "CHI",
+				imagem: "chi"
+			}
+		]
+	},
+	{
+		grupo: "E",
+		cor: "#00968D",
+		selecoes: [
+			{
+				selecao: "Estados Unidos",
+				sigla: "EUA",
+				imagem: "eua"
+			},
+			{
+				selecao: "Vietnã",
+				sigla: "VIE",
+				imagem: "vie"
+			},
+			{
+				selecao: "Holanda",
+				sigla: "HOL",
+				imagem: "hol"
+			},
+			{
+				selecao: "Portugal",
+				sigla: "POR",
+				imagem: "por"
+			}
+		]
+	},
+	{
+		grupo: "F",
+		cor: "#78D64B",
+		selecoes: [
+			{
+				selecao: "França",
+				sigla: "FRA",
+				imagem: "fra"
+			},
+			{
+				selecao: "Jamaica",
+				sigla: "JAM",
+				imagem: "jam"
+			},
+			{
+				selecao: "Brasil",
+				sigla: "BRA",
+				imagem: "bra"
+			},
+			{
+				selecao: "Panamá",
+				sigla: "PAN",
+				imagem: "pan"
+			}
+		]
+	},
+	{
+		grupo: "G",
+		cor: "#FFA02F",
+		selecoes: [
+			{
+				selecao: "Suécia",
+				sigla: "SUE",
+				imagem: "sue"
+			},
+			{
+				selecao: "África do Sul",
+				sigla: "AFS",
+				imagem: "afs"
+			},
+			{
+				selecao: "Itália",
+				sigla: "ITA",
+				imagem: "ita"
+			},
+			{
+				selecao: "Argentina",
+				sigla: "ARG",
+				imagem: "arg"
+			}
+		]
+	},
+	{
+		grupo: "H",
+		cor: "#FE5211",
+		selecoes: [
+			{
+				selecao: "Alemanha",
+				sigla: "ALE",
+				imagem: "ale"
+			},
+			{
+				selecao: "Marrocos",
+				sigla: "MAR",
+				imagem: "mar"
+			},
+			{
+				selecao: "Colômbia",
+				sigla: "COL",
+				imagem: "col"
+			},
+			{
+				selecao: "Coreia do Sul",
+				sigla: "CDS",
+				imagem: "CDS"
+			}
+		]
+	}
+]
