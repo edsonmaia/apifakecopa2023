@@ -519,7 +519,7 @@
   "local": "WELLINGTON REGIONAL",
   "mandante": "JAPÃO",
   "sigla_mandante": "JAP",
-  "gols_mandante": 0,
+  "gols_mandante": 4,
   "gols_visitante": 0,
   "sigla_visitante": "ESP",
   "visitante": "ESPANHA"
@@ -534,8 +534,8 @@
   "local": "WAIKATO",
   "mandante": "COSTA RICA",
   "sigla_mandante": "COS",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 1,
+  "gols_visitante": 3,
   "sigla_visitante": "ZAM",
   "visitante": "ZÂMBIA"
  },
