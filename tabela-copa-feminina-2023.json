@@ -595,7 +595,7 @@
   "mandante": "VIETNÃ",
   "sigla_mandante": "VIE",
   "gols_mandante": 0,
-    "gols_visitante": 0,
+    "gols_visitante": 7,
   "sigla_visitante": "HOL",
   "visitante": "HOLANDA"
  },
@@ -609,8 +609,8 @@
   "local": "COOPERS STADIUM",
   "mandante": "CHINA",
   "sigla_mandante": "CHI",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 1,
+  "gols_visitante": 6,
   "sigla_visitante": "ING",
   "visitante": "INGLATERRA"
  },
@@ -625,7 +625,7 @@
   "mandante": "HAITI",
   "sigla_mandante": "HAI",
   "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_visitante": 2,
   "sigla_visitante": "DIN",
   "visitante": "DINAMARCA"
  },
