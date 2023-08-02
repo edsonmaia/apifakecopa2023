@@ -640,7 +640,7 @@
   "mandante": "ARGENTINA",
   "sigla_mandante": "ARG",
   "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_visitante": 2,
   "sigla_visitante": "SUE",
   "visitante": "SUÉCIA"
  },
@@ -654,8 +654,8 @@
   "local": "WELLINGTON REGIONAL",
   "mandante": "ÁFRICA DO SUL",
   "sigla_mandante": "AFS",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 3,
+  "gols_visitante": 2,
   "sigla_visitante": "ITA",
   "visitante": "ITÁLIA"
  },
@@ -669,8 +669,8 @@
   "local": "ALLIANZ STATIUM",
   "mandante": "PANAMA",
   "sigla_mandante": "PAN",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 3,
+  "gols_visitante": 6,
   "sigla_visitante": "FRA",
   "visitante": "FRANÇA"
  },
