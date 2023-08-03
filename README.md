@@ -2,8 +2,8 @@
 
 ## Links das instruções de aulas em markdown:
 
-1. [Aula 01 - Criar projeto + Component Card dos Grupos](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula01.md)
-2. [Aula 02 - Aula 02 Criar Component GameTable](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula01.md)
+1. [Aula 01 - Criar projeto + Component Card dos Grupos](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula01.md)
+2. [Aula 02 - Aula 02 Criar Component GameTable](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula01.md)
 
 
 ## Link das Fontes do Google Fonts
