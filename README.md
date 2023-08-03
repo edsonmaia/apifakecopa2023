@@ -1,3 +1,11 @@
+# PROJETO REACT COM VITE COPA DO MUNDO FEMININA 2023
+
+## Links das instruções de aulas em markdown:
+
+1. [Aula 01 - Criar projeto + Component Card dos Grupos](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula01.md)
+2. [Aula 02 - Aula 02 Criar Component GameTable](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula01.md)
+
+
 ## Link das Fontes do Google Fonts
 
 > Copie estas três linhas para definir as fontes do nosso projeto
