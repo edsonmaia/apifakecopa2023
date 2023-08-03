@@ -699,8 +699,8 @@
   "local": "SUNCORP STADIUM",
   "mandante": "COREIA DO SUL",
   "sigla_mandante": "CDS",
-  "gols_mandante": 0,
-  "gols_visitante": 0,
+  "gols_mandante": 1,
+  "gols_visitante": 1,
   "sigla_visitante": "ALE",
   "visitante": "ALEMANHA"
  },
@@ -714,7 +714,7 @@
   "local": "HBF PARK",
   "mandante": "MARROCOS",
   "sigla_mandante": "MAR",
-  "gols_mandante": 0,
+  "gols_mandante": 1,
   "gols_visitante": 0,
   "sigla_visitante": "COL",
   "visitante": "COLÔMBIA"
