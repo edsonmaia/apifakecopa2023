@@ -1,4 +1,4 @@
-# PROJETO REACT COM VITE COPA DO MUNDO FEMININA 2023
+# Projeto Copa Feminina 2023 em React JS com Vite
 
 ## Links das instruções de aulas em markdown:
 
