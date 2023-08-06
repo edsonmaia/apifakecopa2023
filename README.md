@@ -4,7 +4,8 @@
 
 1. [Aula 01 - Criar projeto + Component Card dos Grupos](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula01.md)
 2. [Aula 02 - Criar Component GameTable](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula02.md)
-3. [Aula 03 - Criar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula02.md)
+3. [Aula 03 - Criar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula03.md)
+4. [Aula 04 - Refatorar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula04.md)
 
 ## Link das Fontes do Google Fonts
 
