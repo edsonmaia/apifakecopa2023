@@ -6,6 +6,7 @@
 2. [Aula 02 - Criar Component GameTable](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula02.md)
 3. [Aula 03 - Criar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula03.md)
 4. [Aula 04 - Refatorar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula04.md)
+5. [Aula 05 - Refatorar Component KnockoutStage](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula05.md)
 
 ## Link das Fontes do Google Fonts
 
