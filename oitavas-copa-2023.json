@@ -154,8 +154,8 @@
   "grupo_mandante": "H1",
   "sigla_mandante": "COL",
   "mandante": "COLÔMBIA",
-  "gols_mandante": "-",
-  "gols_visitante": "-",
+  "gols_mandante": "1",
+  "gols_visitante": "0",
   "visitante": "JAMAICA",
   "sigla_visitante": "JAM",
   "grupo_visitante": "F2",
@@ -164,8 +164,8 @@
   "placar_prorrogacao": "-",
   "penaltis": "Não",
   "placar_penaltis": "-",
-  "vencedor": "-",
-  "perdedor": "-"
+  "vencedor": "COLÔMBIA",
+  "perdedor": "JAMAICA"
  },
  {
   "tipo": "eliminatória",
@@ -178,8 +178,8 @@
   "grupo_mandante": "F1",
   "sigla_mandante": "FRA",
   "mandante": "FRANÇA",
-  "gols_mandante": "-",
-  "gols_visitante": "-",
+  "gols_mandante": "4",
+  "gols_visitante": "0",
   "visitante": "MARROCOS",
   "sigla_visitante": "MAR",
   "grupo_visitante": "H2",
@@ -188,7 +188,7 @@
   "placar_prorrogacao": "-",
   "penaltis": "Não",
   "placar_penaltis": "-",
-  "vencedor": "-",
-  "perdedor": "-"
+  "vencedor": "FRANÇA",
+  "perdedor": "MARROCOS"
  }
 ]
