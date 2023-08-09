@@ -3,7 +3,7 @@
   "tipo": "decisão",
   "fase": "terceiro lugar",
   "jogo": 1,
-  "chave": "-",
+  "chave": "",
   "dia": "SÁB",
   "data": "19/08",
   "hora": "05:00",
@@ -26,7 +26,7 @@
  {
   "tipo": "decisão",
   "fase": "final",
-  "jogo": 1,
+  "jogo": "",
   "chave": "15",
   "dia": "DOM",
   "data": "20/08",
