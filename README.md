@@ -7,6 +7,7 @@
 3. [Aula 03 - Criar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula03.md)
 4. [Aula 04 - Refatorar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula04.md)
 5. [Aula 05 - Criar Component KnockoutStage](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula05.md)
+6. [Aula 06 - Usar Component KnockoutStage](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula06.md)
 
 ## Link das Fontes do Google Fonts
 
