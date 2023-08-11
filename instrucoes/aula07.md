@@ -127,6 +127,84 @@ export default Fixture
 
 > Todo o código CSS de Fixture será o mesmo do componente KnockoutStage, só copie e cole ele no arquivo.
 
+## Como usar o componente Fixture
+
+## Como usar o componente KnockoutStage
+
+1. Abra o arquivo App.jsx
+2. No final do return adicione uma tag h1 comente as linha de código 13 até 33, comente também das linhas 3 até 5 dos importes e deixe o código da seguinte forma:
+
+~~~javascript
+import './App.css'
+import Fixture from './components/Fixture'
+// import Card from './components/Card'
+// import GameTable from './components/GameTable'
+// import GroupStandings from './components/GroupStandings'
+import KnockoutStage from './components/KnockoutStage'
+
+function App() {
+
+  return (
+    <>
+      <h1>Copa do Mundo Feminina 2023</h1>
+
+      {/* <section className='cards'>
+        <Card />
+      </section>
+
+      <h2>Tabela de Jogos</h2>
+
+      <section className='game_table'>
+        <GameTable />
+      </section>
+
+      <h2>Classificação por Grupo</h2>
+
+      <section className='group_table'>
+        <GroupStandings />
+      </section>
+
+      <h2>Oitavas de Final</h2>
+
+      <section className='knockout_table'>
+        <KnockoutStage fase="oitavas" />
+      </section> */}
+
+      <h2>Jogos do dia 10/08/2023</h2>
+
+      <section className='knockout_table'>
+        <Fixture fase="quartas" data="10/08" />
+      </section>
+
+      <h2>Quartas de Final</h2>
+
+      <section className='knockout_table'>
+        <KnockoutStage fase="quartas" />
+      </section>
+
+      <h2>Semifinais</h2>
+
+      <section className='knockout_table'>
+        <KnockoutStage fase="semifinais" />
+      </section>
+
+      <h2>Finais</h2>
+
+      <section className='knockout_table'>
+        <KnockoutStage fase="finais" />
+      </section>
+      
+    </>
+
+  )
+}
+
+export default App
+
+~~~
+
+> Perceba que você agora utiliza o componente Fixture passando duas props, a primeira é o nome da rodada que vai servir para pegar os dados do json (da nossa api fake) e a segunda props é a data, sendo dia/mês que é a data do jogo.
+
 ## Dicas finais
 
 > Vimos nesta aula uma proposta de solução para o desafio da aula anterior de desenvolver um componente que use os conceitos do KnockoutStage que usa props, para exibir a "lista de jogos do dia". O nome do componente pode ser Fixture ou FixtureList. Uma dica, é importante usar a data do evento como uma props.
