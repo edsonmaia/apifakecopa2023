@@ -10,18 +10,18 @@
   "grupo_mandante": "C2",
   "sigla_mandante": "ESP",
   "mandante": "ESPANHA",
-  "gols_mandante": "-",
-  "gols_visitante": "-",
+  "gols_mandante": "1",
+  "gols_visitante": "1",
   "visitante": "HOLANDA",
   "sigla_visitante": "HOL",
   "grupo_visitante": "E1",
   "local": "WELLINGTON REGIONAL",
-  "prorrogacao": "Não",
-  "placar_prorrogacao": "-",
+  "prorrogacao": "Sim",
+  "placar_prorrogacao": "2 a 1",
   "penaltis": "Não",
   "placar_penaltis": "-",
-  "vencedor": "-",
-  "perdedor": "-"
+  "vencedor": "ESPANHA",
+  "perdedor": "HOLANDA"
  },
  {
   "tipo": "eliminatória",
@@ -34,8 +34,8 @@
   "grupo_mandante": "C1",
   "sigla_mandante": "JAP",
   "mandante": "JAPÃO",
-  "gols_mandante": "-",
-  "gols_visitante": "-",
+  "gols_mandante": "1",
+  "gols_visitante": "2",
   "visitante": "SUÉCIA",
   "sigla_visitante": "SUE",
   "grupo_visitante": "G1",
@@ -44,8 +44,8 @@
   "placar_prorrogacao": "-",
   "penaltis": "Não",
   "placar_penaltis": "-",
-  "vencedor": "-",
-  "perdedor": "-"
+  "vencedor": "SUÉCIA",
+  "perdedor": "JAPÃO"
  },
  {
   "tipo": "eliminatória",
