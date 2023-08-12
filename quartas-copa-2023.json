@@ -82,8 +82,8 @@
   "grupo_mandante": "D1",
   "sigla_mandante": "ING",
   "mandante": "INGLATERRA",
-  "gols_mandante": "-",
-  "gols_visitante": "-",
+  "gols_mandante": "2",
+  "gols_visitante": "1",
   "visitante": "COLÔMBIA",
   "sigla_visitante": "COL",
   "grupo_visitante": "H1",
@@ -92,7 +92,7 @@
   "placar_prorrogacao": "-",
   "penaltis": "Não",
   "placar_penaltis": "-",
-  "vencedor": "-",
-  "perdedor": "-"
+  "vencedor": "INGLATERRA",
+  "perdedor": "COLÔMBIA"
  }
 ]
