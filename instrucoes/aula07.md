@@ -129,9 +129,7 @@ export default Fixture
 
 ## Como usar o componente Fixture
 
-## Como usar o componente KnockoutStage
-
-1. Abra o arquivo App.jsx
+1. Abra o arquivo `App.jsx`
 2. No final do return adicione uma tag h1 comente as linha de código 13 até 33, comente também das linhas 3 até 5 dos importes e deixe o código da seguinte forma:
 
 ~~~javascript
