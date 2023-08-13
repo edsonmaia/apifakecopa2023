@@ -12,7 +12,7 @@
 4. Abra o arquivo `index.jsx`
 5. Deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 /* eslint-disable react/prop-types */
 import { useState, useEffect } from 'react'
 import styles from './KnockoutStage.module.css'
@@ -169,7 +169,7 @@ export default KnockoutStage
 1. Abra o arquivo App.jsx
 2. No final do return adicione uma tag h2 e o componente, deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import './App.css'
 import Card from './components/Card'
 import GameTable from './components/GameTable'

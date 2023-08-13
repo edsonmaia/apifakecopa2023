@@ -12,7 +12,7 @@
 4. Abra o arquivo `index.jsx`
 5. Deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import { useState } from 'react'
 import styles from './GameTable.module.css'
 import { useEffect } from 'react'
@@ -83,7 +83,7 @@ export default GameTable
 1. Abra o arquivo `App.jsx`
 2. Abaixo da section cards adicione uma tag h2, uma section e dentro dela o componente GameTable. Deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import './App.css'
 import Card from './components/Card'
 import GameTable from './components/GameTable'
@@ -112,7 +112,7 @@ export default App
 
 3. Faça o import do component GameTable
 
-~~~javascript
+~~~jsx
 import Card from './components/GameTable'
 ~~~
 

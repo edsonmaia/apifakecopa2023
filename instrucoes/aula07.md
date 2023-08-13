@@ -11,13 +11,13 @@
 1. Abra o arquivo `index.jsx` de `KnockoutStage`
 2. Substitua o trecho `{fase}` por `{ jogo.tipo == "decisão" ? jogo.fase : fase }`
 
-~~~javascript
+~~~jsx
   <h2 className={styles.titulo2}>{ jogo.tipo == "decisão" ? jogo.fase : fase } {jogo.jogo} - chave {jogo.chave}</h2>
 ~~~
 
 > Isto serve para otimizar a exibição dos cards da disputa do terceiro lugar e da final. Também pode ser simplificado pela seguinte linha sem a verifição do tipo:
 
-~~~javascript
+~~~jsx
   <h2 className={styles.titulo2}>{ jogo.fase } {jogo.jogo} - chave {jogo.chave}</h2>
 ~~~
 
@@ -40,7 +40,7 @@
 
 5. Deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 /* eslint-disable react/prop-types */
 import { useEffect, useState } from 'react'
 import styles from './Fixture.module.css'
@@ -132,7 +132,7 @@ export default Fixture
 1. Abra o arquivo `App.jsx`
 2. No final do return adicione uma tag h1 comente as linha de código 13 até 33, comente também das linhas 3 até 5 dos importes e deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import './App.css'
 import Fixture from './components/Fixture'
 // import Card from './components/Card'

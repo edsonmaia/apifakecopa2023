@@ -13,7 +13,7 @@
 4. Abra o arquivo `index.jsx`
 5. Deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import { useEffect, useState } from 'react'
 import styles from './GroupStandings.module.css'
 
@@ -80,7 +80,7 @@ export default GroupStandings
 1. Abra o arquivo `App.jsx`
 2. Abaixo da section game_table deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import './App.css'
 import Card from './components/Card'
 import GameTable from './components/GameTable'

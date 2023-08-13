@@ -25,41 +25,47 @@
 
 ## index.html
 
-1. Abra o arquivo index.html
+1. Abra o arquivo `index.html`
 2. Mude o titulo da página para
+
 ~~~html
 <title>Copa do Mundo Feminina 2023</title>
 ~~~
 
-3. Copie o arquivo favicon.png para a pasta public
-3.1 Apague o arquivo vite.svg
+3. Copie o arquivo `favicon.png` para a pasta `public`
+3.1 Apague o arquivo `vite.svg`
 3.2 Mude o código do link do favicon para:
+
 ~~~html
 <link rel="icon" type="image/png" href="/favicon.png" />
 ~~~
 
 4. Abaixo da tag de abertura de head cole as seguintes linhas:
+
 ~~~html
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Roboto+Mono:wght@400;500;700&family=Victor+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 ~~~
+
 5. Salve as alterações
 
 ## App.jsx
 
-1. Abra o arquivo App.jsx
+1. Abra o arquivo `App.jsx`
 2. Apague a linha 7 da const com useState
 3. Apague da linha 10 até 29 o conteúdo dentro do fragment
 4. Apague as três primeiras linhas:
-~~~javascript
+
+~~~jsx
   import { useState } from 'react'
   import reactLogo from './assets/react.svg'
   import viteLogo from '/vite.svg'
 ~~~
 
 5. Na linha 10 entre as tags do Frament digite o seguinte:
-~~~javascript
+
+~~~jsx
 <h1>Copa do Mundo Feminina 2023</h1>
 ~~~
 
@@ -109,7 +115,7 @@ h1 {
 1. Abra o arquivo App.jsx
 2. Deixe a página da seguinte forma:
 
-~~~javascript
+~~~jsx
 import './App.css'
 
 function App() {
@@ -137,7 +143,7 @@ export default App
 4. Abra o arquivo index.jsx
 5. Deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import styles from './Card.module.css'
 
 function Card() {
@@ -165,13 +171,15 @@ export default Card
 ## Como usar o component Card
 
 1. Abra o arquivo App.jsx
-2. Abaixo da tag h1 adicione o componente Card
-~~~javascript
+2. Abaixo da tag h1 adicione o componente `Card`
+
+~~~jsx
 <Card />
 ~~~
 
-3. Faça o import do component Card
-~~~javascript
+3. Faça o import do component `Card`
+
+~~~jsx
 import Card from './components/Card'
 ~~~
 
@@ -179,7 +187,7 @@ import Card from './components/Card'
 
 ## CSS do component Card
 
-1. Abra o arquivo Card.module.css
+1. Abra o arquivo `Card.module.css`
 2. Faça o seguinte código:
 
 ~~~css
@@ -219,10 +227,10 @@ import Card from './components/Card'
 
 ## Cards Dinâmicos dos Grupos da Copa
 
-1. Abra o arquivo index.jsx do component Card
+1. Abra o arquivo `index.jsx` do component `Card`
 2. Refatore o código para ficar da seguinte forma:
 
-~~~javascript
+~~~jsx
 import { useEffect, useState } from 'react'
 import styles from './Card.module.css'
 
@@ -269,7 +277,7 @@ export default Card
 
 ## CSS da class .cards de App.css
 
-1. Abra o arquivo App.css
+1. Abra o arquivo `App.css`
 2. Faça o seguinte código css:
 
 ~~~css

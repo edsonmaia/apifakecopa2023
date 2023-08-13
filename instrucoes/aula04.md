@@ -9,7 +9,7 @@
 1. Abra o arquivo `index.jsx`
 2. Deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import { useEffect, useState } from 'react'
 import styles from './GroupStandings.module.css'
 
@@ -146,7 +146,7 @@ table .esquerda {
 2. Vamos apagar apenas a linha da tag h2 que está dentro da div group_standings
 3. Abaixo da section game_table deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import './App.css'
 import Card from './components/Card'
 import GameTable from './components/GameTable'

@@ -11,7 +11,7 @@
 1. Abra o arquivo `index.jsx` de `KnockoutStage`
 2. Substitua a palavra `Oitavas` por `{fase}`
 
-~~~javascript
+~~~jsx
   <h2 className={styles.titulo2}>{fase} {jogo.jogo} - chave {jogo.chave}</h2>
 ~~~
 
@@ -22,7 +22,7 @@
 1. Abra o arquivo App.jsx
 2. No final do return adicione uma tag h2 e o componente, deixe o código da seguinte forma:
 
-~~~javascript
+~~~jsx
 import './App.css'
 import Card from './components/Card'
 import GameTable from './components/GameTable'
