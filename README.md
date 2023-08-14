@@ -9,6 +9,7 @@
 5. [Aula 05 - Criar Component KnockoutStage](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula05.md)
 6. [Aula 06 - Usar Component KnockoutStage](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula06.md)
 7. [Aula 07 - Criar Component Fixture](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula07.md)
+8. [Aula 08 - Composição de Componentes](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula08.md)
 
 ## Link das Fontes do Google Fonts
 
