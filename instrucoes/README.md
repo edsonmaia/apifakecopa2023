@@ -2,13 +2,14 @@
 
 ## Links das instruções de aulas em markdown:
 
-1. [Aula 01 - Criar projeto + Component Card dos Grupos](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula01.md)
-2. [Aula 02 - Criar Component GameTable](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula02.md)
-3. [Aula 03 - Criar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula03.md)
-4. [Aula 04 - Refatorar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula04.md)
-5. [Aula 05 - Criar Component KnockoutStage](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula05.md)
-6. [Aula 06 - Usar Component KnockoutStage](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula06.md)
-7. [Aula 07 - Criar Component Fixture](https://github.com/edsonmaia/apifakecopa2023/blob/main/aula07.md)
+1. [Aula 01 - Criar projeto + Component Card dos Grupos](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula01.md)
+2. [Aula 02 - Criar Component GameTable](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula02.md)
+3. [Aula 03 - Criar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula03.md)
+4. [Aula 04 - Refatorar Component GroupStandings](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula04.md)
+5. [Aula 05 - Criar Component KnockoutStage](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula05.md)
+6. [Aula 06 - Usar Component KnockoutStage](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula06.md)
+7. [Aula 07 - Criar Component Fixture](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula07.md)
+8. [Aula 08 - Composição de Componentes](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula08.md)
 
 ## Link das Fontes do Google Fonts
 
