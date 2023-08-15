@@ -10,8 +10,8 @@
   "grupo_mandante": "-",
   "sigla_mandante": "ESP",
   "mandante": "ESPANHA",
-  "gols_mandante": "-",
-  "gols_visitante": "-",
+  "gols_mandante": "2",
+  "gols_visitante": "1",
   "visitante": "SUÉCIA",
   "sigla_visitante": "SUE",
   "grupo_visitante": "-",
@@ -20,8 +20,8 @@
   "placar_prorrogacao": "-",
   "penaltis": "Não",
   "placar_penaltis": "-",
-  "vencedor": "-",
-  "perdedor": "-"
+  "vencedor": "ESPANHA",
+  "perdedor": "SUÉCIA"
  },
  {
   "tipo": "eliminatória",
