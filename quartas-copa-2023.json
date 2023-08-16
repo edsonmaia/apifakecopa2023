@@ -1,5 +1,6 @@
 [
  {
+  "id": 57,
   "tipo": "eliminatória",
   "fase": "quartas",
   "jogo": 1,
@@ -24,6 +25,7 @@
   "perdedor": "HOLANDA"
  },
  {
+  "id": 58, 
   "tipo": "eliminatória",
   "fase": "quartas",
   "jogo": 2,
@@ -48,6 +50,7 @@
   "perdedor": "JAPÃO"
  },
  {
+  "id": 59,  
   "tipo": "eliminatória",
   "fase": "quartas",
   "jogo": 3,
@@ -72,6 +75,7 @@
   "perdedor": "FRANÇA"
  },
  {
+  "id": 60,
   "tipo": "eliminatória",
   "fase": "quartas",
   "jogo": 4,

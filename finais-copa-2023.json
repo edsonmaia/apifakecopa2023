@@ -1,5 +1,6 @@
 [
  {
+  "id": 63,
   "tipo": "decisão",
   "fase": "terceiro lugar",
   "jogo": "",
@@ -24,6 +25,7 @@
   "perdedor": "-"
  },
  {
+  "id": 64,
   "tipo": "decisão",
   "fase": "final",
   "jogo": "",

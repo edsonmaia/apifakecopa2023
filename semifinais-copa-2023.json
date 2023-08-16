@@ -1,5 +1,6 @@
 [
  {
+  "id": 61,
   "tipo": "eliminatória",
   "fase": "semifinais",
   "jogo": 1,
@@ -24,6 +25,7 @@
   "perdedor": "SUÉCIA"
  },
  {
+  "id": 62,
   "tipo": "eliminatória",
   "fase": "semifinais",
   "jogo": 2,

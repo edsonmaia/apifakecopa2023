@@ -1,5 +1,6 @@
 [
  {
+  "id": 49,
   "tipo": "eliminatória",
   "fase": "oitavas",
   "jogo": 1,
@@ -24,6 +25,7 @@
   "perdedor": "SUÍÇA"
  },
  {
+  "id": 50,
   "tipo": "eliminatória",
   "fase": "oitavas",
   "jogo": 2,
@@ -48,6 +50,7 @@
   "perdedor": "NORUEGA"
  },
  {
+  "id": 51,
   "tipo": "eliminatória",
   "fase": "oitavas",
   "jogo": 3,
@@ -72,6 +75,7 @@
   "perdedor": "ÁFRICA DO SUL"
  },
  {
+  "id": 52,
   "tipo": "eliminatória",
   "fase": "oitavas",
   "jogo": 4,
@@ -96,6 +100,7 @@
   "perdedor": "ESTADOS UNIDOS"
  },
  {
+  "id": 53,
   "tipo": "eliminatória",
   "fase": "oitavas",
   "jogo": 5,
@@ -120,6 +125,7 @@
   "perdedor": "NIGÉRIA"
  },
  {
+  "id": 54,
   "tipo": "eliminatória",
   "fase": "oitavas",
   "jogo": 6,
@@ -144,6 +150,7 @@
   "perdedor": "DINAMARCA"
  },
  {
+  "id": 55,
   "tipo": "eliminatória",
   "fase": "oitavas",
   "jogo": 7,
@@ -168,6 +175,7 @@
   "perdedor": "JAMAICA"
  },
  {
+  "id": 56,
   "tipo": "eliminatória",
   "fase": "oitavas",
   "jogo": 8,
