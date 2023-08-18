@@ -1,6 +1,6 @@
 # Projeto Copa Feminina 2023 em React JS com Vite
 
-## Navegação por Abas
+## Aula 09 Navegação por Abas
 
 > Trabalhar com navegação por abas em um projeto ReactJS é uma tarefa comum e pode ser feita de várias maneiras, dependendo das suas necessidades. Vamos ver um exemplo básico de como implementar a navegação por abas usando componentes e estados do React.
 > Suponha que você queira criar uma página com três abas: "Tab 1", "Tab 2" e "Tab 3", e exibir conteúdo diferente em cada uma delas.
