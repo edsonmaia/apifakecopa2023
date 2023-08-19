@@ -11,8 +11,8 @@
   "grupo_mandante": "-",
   "sigla_mandante": "SUE",
   "mandante": "SUÉCIA",
-  "gols_mandante": "-",
-  "gols_visitante": "-",
+  "gols_mandante": "2",
+  "gols_visitante": "0",
   "visitante": "AUSTRÁLIA",
   "sigla_visitante": "AUS",
   "grupo_visitante": "-",
@@ -21,8 +21,8 @@
   "placar_prorrogacao": "-",
   "penaltis": "Não",
   "placar_penaltis": "-",
-  "vencedor": "-",
-  "perdedor": "-"
+  "vencedor": "SUÉCIA",
+  "perdedor": "AUSTRÁLIA"
  },
  {
   "id": 64,
