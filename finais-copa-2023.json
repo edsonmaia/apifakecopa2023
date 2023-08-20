@@ -36,8 +36,8 @@
   "grupo_mandante": "-",
   "sigla_mandante": "ESP",
   "mandante": "ESPANHA",
-  "gols_mandante": "-",
-  "gols_visitante": "-",
+  "gols_mandante": "1",
+  "gols_visitante": "0",
   "visitante": "INGLATERRA",
   "sigla_visitante": "ING",
   "grupo_visitante": "-",
@@ -46,7 +46,7 @@
   "placar_prorrogacao": "-",
   "penaltis": "Não",
   "placar_penaltis": "-",
-  "vencedor": "-",
-  "perdedor": "-"
+  "vencedor": "ESPANHA",
+  "perdedor": "INGLATERRA"
  }
 ]
