@@ -12,6 +12,7 @@
  8. [Aula 08 - Composição de Componentes](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula08.md)
  9. [Aula 09 - Navegação por Abas](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula09.md)
 10. [Aula 10 - Refatoração e Deploy na Vercel](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula10.md)
+11. [Aula 11 - Extra 1 Criar componente TabButton e Refatorar App](https://github.com/edsonmaia/apifakecopa2023/blob/main/instrucoes/aula11-e1.md)
 
 ## Link das Fontes do Google Fonts
 
